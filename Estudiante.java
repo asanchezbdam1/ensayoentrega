@@ -1,9 +1,7 @@
 
 /**
- *  
- * 
- * @author  
- * @version  
+ * Descripción de un estudiante
+ * Hola 
  */
 public class Estudiante
 {
